@@ -5,3 +5,6 @@
 ![Alt text](function_commits.png)
 ![Alt text](rebase_commits.png)
 ![Alt text](develop_commits.png)
+![Alt text](rebase_ordering.png)
+![Alt text](git_log.png)
+![Alt text](final_result.png)
