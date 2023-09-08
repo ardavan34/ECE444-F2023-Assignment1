@@ -3,3 +3,4 @@
 ![Alt text](merge.png)
 ![Alt text](pull_request.png)
 ![Alt text](function_commits.png)
+![Alt text](rebase_commits.png)
